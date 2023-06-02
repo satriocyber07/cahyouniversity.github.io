@@ -1,0 +1,20 @@
+*{
+    font-family: 'Varela Round', sans-serif;
+}
+
+table th {
+    background-color: #415effe2 !important;
+    color: white !important;
+}
+
+.card-header{
+    background-color: #415eff !important;
+    color: white !important;
+}
+.brs{
+    border-radius: 4px 0 0 0;
+}
+
+.bre{
+    border-radius: 0 4px 0 0;
+}
